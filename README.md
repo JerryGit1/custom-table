@@ -31,7 +31,7 @@
 | min-width          |对应列的最小宽度，与 width 的区别是 width 是固定的，min-width 会把剩余宽度按比例分配给没设置 width 的列  |   string   |80-px|-
 | label        |显示的标题   |  string  |-|-
 | align|对齐方式|string|left/center/right|left
-| toolTip|当内容过长被隐藏时显示 tooltip|Boolean|-|false--
+| toolTip|当内容过长被隐藏时显示 tooltip|Boolean|-|false
 
 ## 在线文档
 https://blog.csdn.net/jerryJJYY/article/details/120758054
